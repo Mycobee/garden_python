@@ -1,6 +1,6 @@
 # Garden Python
 
-Garden Python is a set of scripts connected to the [GardenPi Project](https://github.com/mycobee/garden-pi-be.git).  The scripts are implemented as cron jobs to send sensor data to the Rails API, take photos, and pick up jobs from the database for execution. 
+Garden Python is a set of scripts connected to the [GardenPi Project](https://github.com/mycobee/garden_pi_be.git).  The scripts are implemented as cron jobs to send sensor data to the Rails API, take photos, and pick up jobs from the database for execution. 
 
 ## Getting Started
 
